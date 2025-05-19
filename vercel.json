@@ -1,6 +1,6 @@
 {
   "framework": "nextjs",
-  "installCommand": "cd etherex && pnpm install",
-  "buildCommand": "cd etherex && pnpm run build",
+  "installCommand": "cd etherex && npm install",
+  "buildCommand": "cd etherex && npm run build",
   "outputDirectory": "etherex/.next"
 } 
