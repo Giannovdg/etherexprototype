@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "outputDirectory": "etherex/.next",
+  "builds": [
+    {
+      "src": "etherex",
+      "use": "@vercel/next"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/etherex/$1"
+    }
+  ]
+} 
