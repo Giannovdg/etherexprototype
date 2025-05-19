@@ -1,8 +1,5 @@
 {
   "framework": "nextjs",
-  "projectSettings": {
-    "framework": "nextjs"
-  },
   "installCommand": "cd etherex && pnpm install",
   "buildCommand": "cd etherex && pnpm run build",
   "outputDirectory": "etherex/.next"
