@@ -1,0 +1,10 @@
+{
+  "name": "etherex-website",
+  "private": true,
+  "scripts": {
+    "dev": "cd etherex && pnpm dev",
+    "build": "cd etherex && pnpm build",
+    "start": "cd etherex && pnpm start",
+    "lint": "cd etherex && pnpm lint"
+  }
+} 
